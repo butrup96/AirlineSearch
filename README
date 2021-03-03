@@ -1,0 +1,7 @@
+## AirLine Ticket Search
+
+We were given source code that we then modified to allow users to input key words like the destination, the time, the airlines they are with, their seat number, etc.
+Microsoft SQL Server was used to store information about the flights.
+Eventually added Hibernate to embed the database into the program. 
+For this example we only used the destination and airline they are with for testing purposes in the database.
+Spring was also introduced but not used as the current form was more managable for the short time we worked on this project.
